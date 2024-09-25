@@ -1,6 +1,6 @@
 ### My name is Bruno Selhorst!
 - Developer since 2010, working with PHP, Laravel, Python and Flask (basic)
-- Hard Skills => html, css, php, javascript, python, NodeJs, Flask (basic)
+- Hard Skills => html, css, php, javascript, python (basic), NodeJs (basic), Flask (basic), C# (basic), React Native (basic)
 - I love learn and improve my skills
 
 ## Techs
